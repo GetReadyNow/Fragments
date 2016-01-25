@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="action_settings">Settings</string>
+    <string name="landscape_mode_text_view">Landscape fragment</string>
+    <string name="portrait_mode_text_view">Portrait fragment</string>
+</resources>
